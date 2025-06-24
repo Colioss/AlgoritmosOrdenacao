@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
+        System.out.println("Oi aqui é o Coelho");
         int quantidade = 10;
         int op;
         int[] vetor = new int[quantidade];
